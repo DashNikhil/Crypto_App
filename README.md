@@ -1,4 +1,4 @@
-## ⭐ My First React App  with Chakra-UI⭐
+## ⭐ Crypto React App  with Chakra-UI⭐
 Projects was created during learning react.
 
 <br>

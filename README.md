@@ -1,3 +1,27 @@
+## ⭐ My First React App  with Chakra-UI⭐
+Projects was created during learning react.
+
+<br>
+<br>
+
+## 📌 **Live Site URL:** <a href="https://crypto-app-pi-six.vercel.app/">**Visit Now** 🚀</a>
+
+<br>
+
+## 📌 Tech Stack
+##  React Js
+##  Chakra_UI Component Library
+![REACT](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg)
+<br>
+<br>
+
+## 📬 Connect With Me
+
+- **LinkedIn** - [Nikhil Kushwaha](https://www.linkedin.com/in/nikhil-kushwaha-275a72207/)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
